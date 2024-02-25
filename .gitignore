@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+plugins.iml
+pom.xml
+.idea/
