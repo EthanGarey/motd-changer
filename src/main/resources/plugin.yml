@@ -1,0 +1,10 @@
+name: motdchanger
+version: '0.1'
+main: org.ethangarey.plugins.MotdChanger
+prefix: MotdChanger
+authors: [ EthanGarey ]
+description: A motd changer plugin
+commands:
+  motdmanager:
+    permission: motdchanger.command
+    description: "Change your motd easily"
